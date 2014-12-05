@@ -1,4 +1,5 @@
 ECS140-Prolog-Scheduling
+Written by: Helen Chac
 ========================
 
 Only wrote in Sched.pl
